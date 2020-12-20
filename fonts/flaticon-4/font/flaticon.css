@@ -1,0 +1,69 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 30/06/2020 19:40
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-fridge:before { content: "\f100"; }
+.flaticon-large-fridge:before { content: "\f101"; }
+.flaticon-freezer:before { content: "\f102"; }
+.flaticon-oven:before { content: "\f103"; }
+.flaticon-oven-1:before { content: "\f104"; }
+.flaticon-oven-2:before { content: "\f105"; }
+.flaticon-baking:before { content: "\f106"; }
+.flaticon-oven-3:before { content: "\f107"; }
+.flaticon-oven-4:before { content: "\f108"; }
+.flaticon-oven-5:before { content: "\f109"; }
+.flaticon-washing-machine:before { content: "\f10a"; }
+.flaticon-washing-machine-1:before { content: "\f10b"; }
+.flaticon-washing-machine-2:before { content: "\f10c"; }
+.flaticon-washing-machine-3:before { content: "\f10d"; }
+.flaticon-washing-machine-4:before { content: "\f10e"; }
+.flaticon-washing-machine-5:before { content: "\f10f"; }
+.flaticon-dishwasher:before { content: "\f110"; }
+.flaticon-washing-machine-6:before { content: "\f111"; }
+.flaticon-laundry:before { content: "\f112"; }
+.flaticon-notification:before { content: "\f113"; }
+.flaticon-washing-machine-7:before { content: "\f114"; }
+.flaticon-fridge-1:before { content: "\f115"; }
+.flaticon-fridge-2:before { content: "\f116"; }
+.flaticon-fridge-3:before { content: "\f117"; }
+.flaticon-fridge-4:before { content: "\f118"; }
+.flaticon-fan:before { content: "\f119"; }
+.flaticon-cooling-fan:before { content: "\f11a"; }
+.flaticon-big-electric-fan:before { content: "\f11b"; }
+.flaticon-fan-1:before { content: "\f11c"; }
+.flaticon-fan-2:before { content: "\f11d"; }
+.flaticon-pin:before { content: "\f11e"; }
+.flaticon-home:before { content: "\f11f"; }
+.flaticon-home-1:before { content: "\f120"; }
+.flaticon-telephone:before { content: "\f121"; }
+.flaticon-telephone-1:before { content: "\f122"; }
+.flaticon-telephone-2:before { content: "\f123"; }
+.flaticon-email:before { content: "\f124"; }
